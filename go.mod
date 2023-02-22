@@ -1,4 +1,4 @@
-module github.com/dkumar157/googleapis
+module github.com/dkumar157/grpc-gateway
 
 go 1.19
 
